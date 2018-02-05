@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormalDistributionTest", "NormalDistributionTest.csproj", "{935EE340-85D5-545D-1850-E8C9A94B6692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormalDistributionTest.Editor", "NormalDistributionTest.Editor.csproj", "{B196796A-F280-A3BD-960A-D8986A7B59F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935EE340-85D5-545D-1850-E8C9A94B6692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935EE340-85D5-545D-1850-E8C9A94B6692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935EE340-85D5-545D-1850-E8C9A94B6692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935EE340-85D5-545D-1850-E8C9A94B6692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B196796A-F280-A3BD-960A-D8986A7B59F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B196796A-F280-A3BD-960A-D8986A7B59F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B196796A-F280-A3BD-960A-D8986A7B59F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B196796A-F280-A3BD-960A-D8986A7B59F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
